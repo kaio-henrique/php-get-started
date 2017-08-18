@@ -17,7 +17,7 @@
             $_POST['name'],
             $_POST['password'],
             $_POST['gender'],
-            $_POST['colors'],'',
+            $_POST['colors'],
             implode(', ', $_POST['languages']),
             $_POST['comments'],
             $_POST['tc']);
